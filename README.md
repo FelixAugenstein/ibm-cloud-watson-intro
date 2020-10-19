@@ -21,6 +21,6 @@ Welcome dear workshop participants, here you will find all documents, tutorials 
 
 ### Further resources:
 - More about [CIMON](https://www.ibm.com/thought-leadership/smart/ai-in-space-xp/)
-- More than 100 open source projects, a library of knowledge resources, developer advocates ready to help, and a global community of developers und [IBM Developer](https://developer.ibm.com/)
+- More than 100 open source projects, a library of knowledge resources, developer advocates ready to help, and a global community of developers --> [IBM Developer](https://developer.ibm.com/)
 - Up to $120,000 in IBM Cloud credits for startups --> [Startup with IBM](https://developer.ibm.com/startups/)
 - Discover more [IBM Demos](https://www.ibm.com/demos/)
