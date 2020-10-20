@@ -5,7 +5,7 @@ Welcome dear workshop participants, here you will find all documents, tutorials 
 ![IBM-Watson-CIMON-gif](https://www.ibm.com/thought-leadership/smart/ai-in-space-xp/src/img/loader_iss.gif)
 
 ### Getting started:
-- Sign up for an [IBM Cloud account](https://cloud.ibm.com/registration)
+- Sign up for an [IBM Cloud account](https://ibm.biz/BdqkiM)
 - Getting started with [IBM Cloud & Cloud Docs](https://cloud.ibm.com/docs)
 - Getting started with [Watson Assistant](https://cloud.ibm.com/docs/assistant?topic=assistant-getting-started)
 
