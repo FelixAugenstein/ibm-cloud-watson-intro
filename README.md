@@ -15,6 +15,7 @@ Welcome dear workshop participants, here you will find all documents, tutorials 
 - Integrate Watson Discovery to Let your Assistant [crawl your website and return search results](https://github.com/FelixAugenstein/digital-tech-tutorial-watson-assistant-search-skill)
 - Enable your Assistant to [send you a reminder via e-mail](https://github.com/FelixAugenstein/digital-tech-tutorial-watson-assistant-webhooks)
 - Enable your Assistant to [create tickets if you have any issues and save them to a database](https://github.com/FelixAugenstein/digital-tech-tutorial-watson-assistant-webhooks-part-ii)
+- Build a chatbot that gives definitions of not only a given set of entities, but the whole world of Wikipedia with [Wikipedia API via Cloud Functions & Webhooks](https://developer.ibm.com/recipes/tutorials/connect-watson-assistant-with-wikipedia-api-via-cloud-functions/)
 - More tutorials for [Watson Assistant dialogs](https://cloud.ibm.com/docs/assistant?topic=assistant-tutorial)
 - 4 parts Tutorial to build a [Machine Learning Model with Watson Studio](https://github.com/FelixAugenstein/digital-tech-tutorial-watson-studio)
 - Beginner's guide to [Watson Visual Recognition](https://developer.ibm.com/articles/introduction-watson-visual-recognition/)
