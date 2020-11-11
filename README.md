@@ -1,4 +1,4 @@
-# SUGAR GKO IBM workshop materials
+# IBM Cloud & AI Intro
 
 Welcome dear workshop participants, here you will find all documents, tutorials and other helpful resources you need to get started with IBM Watson:
 
@@ -8,6 +8,7 @@ Welcome dear workshop participants, here you will find all documents, tutorials 
 - Sign up for an [IBM Cloud account](https://ibm.biz/BdqtJi)
 - Getting started with [IBM Cloud & Cloud Docs](https://cloud.ibm.com/docs)
 - Getting started with [Watson Assistant](https://cloud.ibm.com/docs/assistant?topic=assistant-getting-started)
+- Getting started with a [reference architecture & procedure for chatbot projects](https://www.ibm.com/cloud/architecture/architectures/cognitiveConversationDomain/reference-architecture)
 
 ### IBM Watson Tutorials:
 - Create a [Watson Assistant Service and deploy it](https://github.com/FelixAugenstein/digital-tech-tutorial-watson-assistant)
