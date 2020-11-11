@@ -26,4 +26,4 @@ Welcome dear workshop participants, here you will find all documents, tutorials 
 - More than 100 open source projects, a library of knowledge resources, developer advocates ready to help, and a global community of developers --> [IBM Developer](https://developer.ibm.com/)
 - Up to $120,000 in IBM Cloud credits for startups --> [Startup with IBM](https://developer.ibm.com/startups/)
 - Discover more [IBM Demos](https://www.ibm.com/demos/)
-- Get support from the [IBM Public Cloud Community](https://community.ibm.com/community/user/publiccloud/home) or on [stackoverflow](https://stackoverflow.com/questions/tagged/ibm-cloud) 
+- Get support from the [IBM Public Cloud Community](https://community.ibm.com/community/user/publiccloud/home) or on [Stack Overflow](https://stackoverflow.com/questions/tagged/ibm-cloud) 
