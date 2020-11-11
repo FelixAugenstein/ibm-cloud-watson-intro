@@ -1,6 +1,6 @@
 # IBM Cloud & Watson Intro
 
-Welcome dear workshop participants, here you will find all documents, tutorials and other helpful resources you need to get started with IBM Watson:
+Welcome dear workshop participants, here you will find all documents, tutorials and other helpful resources you need to get started with IBM Cloud & Watson:
 
 ![IBM-Watson-CIMON-gif](https://www.ibm.com/thought-leadership/smart/ai-in-space-xp/src/img/loader_iss.gif)
 
