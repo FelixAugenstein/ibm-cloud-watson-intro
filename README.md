@@ -4,6 +4,8 @@ Welcome dear workshop participants, here you will find all documents, tutorials 
 
 ![IBM-Watson-CIMON-gif](https://www.ibm.com/thought-leadership/smart/ai-in-space-xp/src/img/loader_iss.gif)
 
+In case you wonder who the guy in the picture is, it is CIMON! To learn more about CIMON click [here](https://www.ibm.com/thought-leadership/smart/ai-in-space-xp/).
+
 ### Getting started:
 - Sign up for an [IBM Cloud account](https://ibm.biz/BdqtJi)
 - Getting started with [IBM Cloud & Cloud Docs](https://cloud.ibm.com/docs)
@@ -22,7 +24,6 @@ Welcome dear workshop participants, here you will find all documents, tutorials 
 - Beginner's guide to [Watson Visual Recognition](https://developer.ibm.com/articles/introduction-watson-visual-recognition/)
 
 ### Further resources:
-- More about [CIMON](https://www.ibm.com/thought-leadership/smart/ai-in-space-xp/)
 - More than 100 open source projects, a library of knowledge resources, developer advocates ready to help, and a global community of developers --> [IBM Developer](https://developer.ibm.com/)
 - Up to $120,000 in IBM Cloud credits for startups --> [Startup with IBM](https://developer.ibm.com/startups/)
 - Discover more [IBM Demos](https://www.ibm.com/demos/)
