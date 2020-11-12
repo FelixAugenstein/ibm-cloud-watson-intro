@@ -7,7 +7,7 @@ Welcome dear workshop participants, here you will find all documents, tutorials 
 In case you wonder who the guy in the picture is, it is CIMON! To learn more about CIMON click [here](https://www.ibm.com/thought-leadership/smart/ai-in-space-xp/).
 
 ### Getting started:
-- Sign up for an [IBM Cloud account](https://ibm.biz/BdqtJi)
+- Sign up for an [IBM Cloud account](https://ibm.biz/BdqQUK)
 - Getting started with [IBM Cloud & Cloud Docs](https://cloud.ibm.com/docs)
 - Getting started with [Watson Assistant](https://cloud.ibm.com/docs/assistant?topic=assistant-getting-started)
 - Getting started with a [reference architecture & procedure for chatbot projects](https://www.ibm.com/cloud/architecture/architectures/cognitiveConversationDomain/reference-architecture)
