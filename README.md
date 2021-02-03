@@ -21,7 +21,7 @@ In case you wonder who the guy in the picture is, it is CIMON! To learn more abo
 - Build a chatbot that gives definitions of not only a given set of entities, but the whole world of Wikipedia with [Wikipedia API via Cloud Functions & Webhooks](https://developer.ibm.com/recipes/tutorials/connect-watson-assistant-with-wikipedia-api-via-cloud-functions/)
 - More tutorials for [Watson Assistant dialogs](https://cloud.ibm.com/docs/assistant?topic=assistant-tutorial)
 - Description on how to import or export [intents](https://cloud.ibm.com/docs/assistant?topic=assistant-intents#intents-export) and [entities](https://cloud.ibm.com/docs/assistant?topic=assistant-entities#entities-export)
-- 4 parts Tutorial to build a [Machine Learning Model with Watson Studio using Cloud Pak for Data](https://github.com/FelixAugenstein/cloud-pak-for-data-tutorial)
+- 4 parts Tutorial to build a [Machine Learning Model with Watson Studio on Cloud Pak for Data](https://github.com/FelixAugenstein/cloud-pak-for-data-tutorial)
 - Beginner's guide to [Watson Visual Recognition](https://developer.ibm.com/articles/introduction-watson-visual-recognition/)
 
 ### Further resources:
