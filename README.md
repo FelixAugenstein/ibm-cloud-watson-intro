@@ -24,7 +24,6 @@ In case you wonder who the guy in the picture is, it is CIMON! To learn more abo
 - More tutorials for [Watson Assistant dialogs](https://cloud.ibm.com/docs/assistant?topic=assistant-tutorial)
 - Description on how to import or export [intents](https://cloud.ibm.com/docs/assistant?topic=assistant-intents#intents-export) and [entities](https://cloud.ibm.com/docs/assistant?topic=assistant-entities#entities-export)
 - 4 parts Tutorial to build a [Machine Learning Model with Watson Studio on Cloud Pak for Data](https://github.com/FelixAugenstein/cloud-pak-for-data-tutorial)
-- Beginner's guide to [Watson Visual Recognition](https://developer.ibm.com/articles/introduction-watson-visual-recognition/)
 
 ### Further resources:
 - More than 100 open source projects, a library of knowledge resources, developer advocates ready to help, and a global community of developers --> [IBM Developer](https://developer.ibm.com/)
