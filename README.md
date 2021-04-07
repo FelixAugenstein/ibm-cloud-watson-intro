@@ -23,7 +23,7 @@ In case you wonder who the guy in the picture is, it is CIMON! To learn more abo
 - Build a Watson Assistant that is able to [create new contacts in your HubSpot CRM System](https://github.com/FelixAugenstein/watson-assistant-hubspot-crm-contacts)
 - More tutorials for [Watson Assistant dialogs](https://cloud.ibm.com/docs/assistant?topic=assistant-tutorial)
 - Description on how to import or export [intents](https://cloud.ibm.com/docs/assistant?topic=assistant-intents#intents-export) and [entities](https://cloud.ibm.com/docs/assistant?topic=assistant-entities#entities-export)
-- 4 parts Tutorial to build a [Machine Learning Model with Watson Studio on Cloud Pak for Data](https://github.com/FelixAugenstein/cloud-pak-for-data-tutorial)
+- 5 parts Tutorial to build a [Machine Learning Model with Watson Studio on Cloud Pak for Data](https://github.com/FelixAugenstein/cloud-pak-for-data-tutorial)
 
 ### Further resources:
 - More than 100 open source projects, a library of knowledge resources, developer advocates ready to help, and a global community of developers --> [IBM Developer](https://developer.ibm.com/)
