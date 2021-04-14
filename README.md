@@ -14,7 +14,7 @@ In case you wonder who the guy in the picture is, it is CIMON! To learn more abo
 
 ### IBM Watson Tutorials:
 - Create a [Watson Assistant Service and deploy it](https://github.com/FelixAugenstein/watson-assistant-tutorial)
-- Build a phone integration and [let Watson answer the phone](https://github.com/FelixAugenstein/voice-agent-tutorial)
+- Build a phone integration and [let Watson answer the phone](https://github.com/FelixAugenstein/watson-assistant-phone-integration)
 - Integrate Watson Discovery to Let your Assistant [crawl your website and return search results](https://github.com/FelixAugenstein/search-skill-tutorial)
 - Enable your Assistant to [send you a reminder via e-mail](https://github.com/FelixAugenstein/watson-assistant-webhooks-tutorial)
 - Enable your Assistant to [create tickets if you have any issues and save them to a database](https://github.com/FelixAugenstein/watson-assistant-webhooks-tutorial-part-ii)
