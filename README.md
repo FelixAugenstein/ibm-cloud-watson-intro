@@ -21,6 +21,7 @@ In case you wonder who the guy in the picture is, it is CIMON! To learn more abo
 - Build a Watson Assistant that gives definitions of not only a given set of entities, but the whole world of Wikipedia with [Wikipedia API via Cloud Functions & Webhooks](https://developer.ibm.com/recipes/tutorials/connect-watson-assistant-with-wikipedia-api-via-cloud-functions/)
 - Build a Watson Assistant that is able to [create new issues in your backlog in Jira Software](https://github.com/FelixAugenstein/watson-assistant-jira-issues)
 - Build a Watson Assistant that is able to [create new contacts in your HubSpot CRM System](https://github.com/FelixAugenstein/watson-assistant-hubspot-crm-contacts)
+- Make Watson Assistant [send messages to your Discord Server](https://github.com/janhofmann01/Watson-assistant-discord-webhooks)
 - More tutorials for [Watson Assistant dialogs](https://cloud.ibm.com/docs/assistant?topic=assistant-tutorial)
 - Description on how to import or export [intents](https://cloud.ibm.com/docs/assistant?topic=assistant-intents#intents-export) and [entities](https://cloud.ibm.com/docs/assistant?topic=assistant-entities#entities-export)
 - 6 parts Tutorial to build a [Machine Learning Model with Watson Studio on Cloud Pak for Data](https://github.com/FelixAugenstein/cloud-pak-for-data-tutorial)
